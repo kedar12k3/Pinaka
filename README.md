@@ -3,7 +3,7 @@ Pinaka is a Project that would one day would rival BMC Remedy / Service Now / JI
 
 The plan is to turn Pinaka into a defacto open source tool of choice for Rapid Application Development with minimal coding requirements.
 
-The Quarter by Quarter Plan is as follows
+The Quarter by Quarter Roadmap is as follows
 
 Q1 FY 20 = Skeleton 
 
@@ -16,6 +16,10 @@ Q1 FY 20 = Skeleton
 Q2 FY 20 = Engine
 
 - [ ] Workflow Engine
+
+- [ ] Authentication 
+
+- [ ] Authorisation (Roles and Groups)
 
 Server Side Workflow Frameworks
 
